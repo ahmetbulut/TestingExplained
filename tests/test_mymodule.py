@@ -5,4 +5,4 @@ from source import mymodule
 
 class MyTest(unittest.TestCase):
     def test_hello_world(self):
-        self.assertGreater(22, 2)
+        self.assertGreater(11, 1)
