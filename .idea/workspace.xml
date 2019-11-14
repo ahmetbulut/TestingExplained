@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e1c27c-fbcd-4725-b4e0-e9065ed146cd" name="Default" comment="Come on!">
-      <change beforePath="$PROJECT_DIR$/source/mymodule.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/mymodule.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_mymodule.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_mymodule.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -149,7 +148,7 @@
       <workItem from="1573112038195" duration="106000" />
       <workItem from="1573112175081" duration="131000" />
       <workItem from="1573724259146" duration="471000" />
-      <workItem from="1573725378029" duration="566000" />
+      <workItem from="1573725378029" duration="735000" />
     </task>
     <task id="LOCAL-00001" summary="The initial version of our hello world project. Unittested.">
       <created>1542091675887</created>
@@ -207,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573725675810</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Come on!">
+      <created>1573725976046</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1573725976046</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
