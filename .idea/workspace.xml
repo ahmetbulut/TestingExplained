@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e1c27c-fbcd-4725-b4e0-e9065ed146cd" name="Default" comment="Demonstration of breaking the build." />
+    <list default="true" id="29e1c27c-fbcd-4725-b4e0-e9065ed146cd" name="Default" comment="Come on!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +147,7 @@
       <workItem from="1573111685722" duration="260000" />
       <workItem from="1573112038195" duration="106000" />
       <workItem from="1573112175081" duration="131000" />
+      <workItem from="1573724259146" duration="471000" />
     </task>
     <task id="LOCAL-00001" summary="The initial version of our hello world project. Unittested.">
       <created>1542091675887</created>
@@ -174,11 +177,29 @@
       <option name="project" value="LOCAL" />
       <updated>1545720081899</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Come on!">
+      <created>1573724468778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573724468778</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -193,6 +214,7 @@
     <MESSAGE value="The 2nd version of our hello world project." />
     <MESSAGE value="Demonstration of CI tool Travis." />
     <MESSAGE value="Demonstration of breaking the build." />
-    <option name="LAST_COMMIT_MESSAGE" value="Demonstration of breaking the build." />
+    <MESSAGE value="Come on!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Come on!" />
   </component>
 </project>
