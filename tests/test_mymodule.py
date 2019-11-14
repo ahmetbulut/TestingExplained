@@ -4,5 +4,8 @@ import unittest
 from source import mymodule
 
 class MyTest(unittest.TestCase):
+    def test_xyz(self):
+	self.assertEqual(2, 2)
+  
     def test_hello_world(self):
-        self.assertEqual(mymodule.hello_world(), "hello your beautiful world")
+        self.assertEqual(mymodule.hello_world(), "hello beautiful world")
