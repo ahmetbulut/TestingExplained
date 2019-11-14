@@ -6,4 +6,3 @@ from source import mymodule
 class MyTest(unittest.TestCase):
     def test_hello_world(self):
         self.assertGreater(3, 2)
-	self.assertEqual(mymodule.hello_world(), "hello beautiful world")
